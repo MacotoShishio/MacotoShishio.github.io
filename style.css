@@ -1,0 +1,40 @@
+body{
+    margin: 0pc;
+    background-image: url("Фон GA.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100vh;
+    background-attachment: fixed;
+    background-position: 50% 50%;
+    margin: 0;
+}
+header{
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+    padding: 10px;
+    font-size: xx-large;
+    background-color: aqua;
+}
+img{
+    width: 800px;
+}
+.novel{
+    display: flex;
+    justify-content: space-between;
+    font-size: 250%;
+    font-style: oblique;
+    font-weight: bold;
+    color: aliceblue;
+    text-shadow: black 5px -5px 5px;
+    margin: 0px 25px 0px 10px;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+    color: azure;
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
